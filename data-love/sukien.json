@@ -1,0 +1,26 @@
+[
+    {
+        "mask": "CT",
+        "tensk": "Sự kiện chia tay"
+    },
+    {
+        "mask": "HP",
+        "tensk": "Sự kiện hạnh phúc"
+    },
+    {
+        "mask": "KH",
+        "tensk": "Sự kiện kết hôn"
+    },
+    {
+        "mask": "LH",
+        "tensk": "Sự kiện ly hôn"
+    },
+    {
+        "mask": "MS",
+        "tensk": "sự kiện mua sắm"
+    },
+    {
+        "mask": "NYM",
+        "tensk": "Có người mới"
+    }
+]
